@@ -1,0 +1,19 @@
+{
+    "login" : {
+        "email" : "acafaca10@test.com",
+        "password" : "11111111"  
+    },
+
+    "createProfessor" : {
+        "firstName" : "aleksa",
+        "lastName" : "petrovic",
+        "image" : "https://srednjeskole.edukacija.rs/wp-content/uploads/2015/06/albert-ajnstajn.jpg"
+    },
+    "gradebookPage" : {
+        "title" : "neki naslov",
+        "professorName" : "aleksa {enter}"
+
+    }
+
+
+}
